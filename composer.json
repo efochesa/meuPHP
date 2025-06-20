@@ -1,0 +1,23 @@
+{
+  "name": "efochesa/meuphp",
+  "description": "Framework PHP simples, clean e moderno. Feito por você, feito para você!",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eduardo Fochesato",
+      "email": "efochesa@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "another-vendor/package": "0.0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "MeuPHP\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
