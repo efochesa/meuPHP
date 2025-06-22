@@ -1,11 +1,13 @@
 # MeuPHP Framework
 
-**MeuPHP** é Framework PHP simples, clean e moderno. Feito por você, feito para você!
+**MeuPHP** é Framework PHP simples, clean e moderno. 
+
+Feito por você, feito para você!
 
 ## 🚀 Instalação
 
 ```bash
-composer require eduardocastro/meuphp-framework
+composer require efochesa/meuphp
 ```
 
 ## 📦 Estrutura
