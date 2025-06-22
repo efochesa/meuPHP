@@ -5,7 +5,7 @@
 ## 🚀 Instalação
 
 ```bash
-composer require eduardocastro/meuphp-framework
+composer require efochesa/meuphp
 ```
 
 ## 📦 Estrutura
